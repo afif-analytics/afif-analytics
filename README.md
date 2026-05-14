@@ -26,7 +26,7 @@ I am a Data Science undergraduate student (2nd semester) based in Bekasi, Indone
 
 * Email:[afif.febrian@email.com](mailto:apipfebrian1@gmail.com)
 * LinkedIn:[Afif Febrian](https://www.linkedin.com/in/afif-febrian/)
-* Portfolio: https://your-portfolio-website.com
+* Portfolio: [Unduh PDF Portofolio](Portofolio-Data-Science.pdf)
 
 ---
 
